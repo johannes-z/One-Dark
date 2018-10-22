@@ -1,0 +1,22 @@
+{
+    "name": "one-dark-plus-refresh",
+    "displayName": "One Dark+ Refresh",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "johannes-z",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark+ Refresh",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Dark+-color-theme.json"
+            }
+        ]
+    }
+}
